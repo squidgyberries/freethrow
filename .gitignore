@@ -1,0 +1,8 @@
+.idea/
+.venv/
+build/
+dist/
+main.spec
+input/
+output_plot.png
+output.mp4
